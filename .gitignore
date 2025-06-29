@@ -1,0 +1,30 @@
+﻿# Virtual environment
+venv/
+
+# Database files
+*.db
+*.sqlite
+
+# Byte-compiled Python files
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# Alembic environment (keep migration scripts)
+migrations/env.py
+
+# Test artifacts
+.coverage
+htmlcov/
+.pytest_cache/
+test_results.xml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

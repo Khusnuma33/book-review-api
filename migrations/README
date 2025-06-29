@@ -1,0 +1,6 @@
+# Book Review API
+
+## Setup
+1. Create virtual environment:
+   ```powershell
+   python -m venv venv
